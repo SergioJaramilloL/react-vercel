@@ -16,7 +16,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // CAMBIAR: URL de tu repositorio
-                git branch: 'main', url: 'https://github.com/TU_USUARIO/ucp-app-react.git'
+                git branch: 'main', url: 'https://github.com/SergioJaramilloL/react-vercel.git'
             }
         }
 
