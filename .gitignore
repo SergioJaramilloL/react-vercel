@@ -1,0 +1,29 @@
+# dependencias
+/node_modules
+/.pnp
+.pnp.js
+
+# pruebas
+/coverage
+junit*.xml
+
+# build
+/build
+/prod
+
+# Vercel (se genera con vercel pull / vercel link)
+.vercel
+
+# varios
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Snyk
+snyk_results.json
+snyk_report.html
