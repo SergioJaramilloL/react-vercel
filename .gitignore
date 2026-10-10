@@ -27,3 +27,4 @@ yarn-error.log*
 # Snyk
 snyk_results.json
 snyk_report.html
+.env*
